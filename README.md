@@ -1,2 +1,4 @@
-# Transformer-for-Seq2Seq
-Exam project for the course of Deep Learning at Unibo
+# Formulae translation
+
+Project for the Deep Learning course at the University of Bologna (2024/2025).
+It's an autoregressive Transformer encode-decoder model implemented in Keras for transforming formulae from infix to postfix notation. 
